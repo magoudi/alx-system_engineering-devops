@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#f vjjgsslvmjgnvs
+ssh-add ~/.ssh/school
+ssh ubuntu@18.204.9.27
